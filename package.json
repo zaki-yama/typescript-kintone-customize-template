@@ -2,7 +2,7 @@
   "name": "kintone-customize-typescript-template",
   "version": "1.0.0",
   "description": "",
-  "main": ".eslintrc.js",
+  "main": "index.js",
   "scripts": {
     "upload": "kintone-customize-uploader dest/customize-manifest.json",
     "test": "echo \"Error: no test specified\" && exit 1"
