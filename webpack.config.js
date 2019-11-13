@@ -3,7 +3,7 @@ const path = require("path");
 module.exports = {
   mode: "development",
   entry: {
-    config: "./src/main.ts"
+    config: "./src/main.tsx"
   },
   output: {
     path: path.join(__dirname, "dest", "js"),
