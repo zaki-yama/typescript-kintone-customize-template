@@ -6,7 +6,7 @@
   "scripts": {
     "build": "webpack",
     "watch": "webpack -w",
-    "upload": "kintone-customize-uploader dest/customize-manifest.json",
+    "upload": "kintone-customize-uploader customize-manifest.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

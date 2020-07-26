@@ -1,5 +1,5 @@
 .DS_Store
-dest/js
+dist
 .envrc
 *.ppk
 

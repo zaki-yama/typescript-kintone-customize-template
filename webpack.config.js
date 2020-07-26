@@ -6,7 +6,7 @@ module.exports = {
     config: "./src/main.tsx"
   },
   output: {
-    path: path.join(__dirname, "dest", "js"),
+    path: path.join(__dirname, "dist", "js"),
     filename: "bundle.js"
   },
 

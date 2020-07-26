@@ -2,7 +2,7 @@
     "app": "1",
     "scope": "ALL",
     "desktop": {
-        "js": ["dest/js/bundle.js"],
+        "js": ["dist/js/bundle.js"],
         "css": []
     },
     "mobile": {
